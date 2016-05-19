@@ -1,6 +1,6 @@
 {
   "name": "honest-oracledb",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "A promise wrapper for Oracle's database driver",
   "homepage": "https://example.com/honest-oracledb",
   "main": "oracle.js",
@@ -38,6 +38,6 @@
   },
   "dependencies": {
     "introduce": "^0.2.0",
-    "oracledb": "^1.8.0"
+    "oracledb": "1.8.x"
   }
 }

@@ -1,5 +1,10 @@
 # honest-oracledb
 
+> **Deprecation Notice:** this module is deprecated. [oracledb][oracledb]
+> version 1.9.x introduced native `Promise` support. If you are using
+> [oracledb][oracledb] 1.8.x then this module is still usefule to you,
+> but maintenance of this module is completely stopped. ~ 2016-05-19
+
 This library provides a native `Promise` interface to the [oracledb][oracledb]
 database driver.
 

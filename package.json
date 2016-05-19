@@ -38,6 +38,6 @@
   },
   "dependencies": {
     "introduce": "^0.2.0",
-    "oracledb": "^1.8.0"
+    "oracledb": "1.8.x"
   }
 }
